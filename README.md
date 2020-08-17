@@ -20,7 +20,7 @@ Data Collection: The data was scraped from various reliable sources as listed be
  
  Web-scraping and data collection:
   * University information: link to web_scraping file
-  * University decision: link to university 3000 file
+  * University decision: University Decision_Scraping.ipynb
   * Covid19: link to covid19 scraping
 
  Data Cleaning: Link to data cleaning

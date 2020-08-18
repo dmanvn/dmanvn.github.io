@@ -12,9 +12,6 @@ Data Collection: The data was scraped from various reliable sources as listed be
   * Covid19 data:
     * Centers for Disease Control and Prevention (CDC): https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/
  
-  * Politic:
-  
-  * Economic: 
  
  # Content:
  

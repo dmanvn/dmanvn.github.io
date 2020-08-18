@@ -22,7 +22,7 @@ Data Collection: The data was scraped from various reliable sources as listed be
 
  [Data Cleaning](https://github.com/dmanvn/dmanvn.github.io/blob/master/Data_Combine.ipynb)
  
-[Geographical Mapping](https://nbviewer.jupyter.org/url/dmanvn.github.io/Mapping.ipynb)
+[Geographical Mapping](https://nbviewer.jupyter.org/github/dmanvn/dmanvn.github.io/blob/master/Mapping.ipynb)
 
 Exploratory Data Analysis: Link to eda
  

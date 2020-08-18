@@ -23,7 +23,7 @@ Data Collection: The data was scraped from various reliable sources as listed be
   * [Scraping university decision](https://github.com/dmanvn/dmanvn.github.io/blob/master/Scrape_University_Decision.ipynb)
   * [Scraping Covid19 data](https://github.com/dmanvn/dmanvn.github.io/blob/master/Scrape_Covid19.ipynb)
 
- Data Cleaning: Link to data cleaning
+ [Data Cleaning](https://github.com/dmanvn/dmanvn.github.io/blob/master/Data_Combine.ipynb)
  
  Exploratory Data Analysis: Link to eda
  

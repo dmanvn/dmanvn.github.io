@@ -19,9 +19,9 @@ Data Collection: The data was scraped from various reliable sources as listed be
  # Content:
  
  Web-scraping and data collection:
-  * University information: link to web_scraping file
-  * University decision: University Decision_Scraping.ipynb
-  * Covid19: link to covid19 scraping
+  * [Scraping university information](https://github.com/dmanvn/dmanvn.github.io/blob/master/Scrape_University_Info.ipynb)
+  * [Scraping university decision](https://github.com/dmanvn/dmanvn.github.io/blob/master/Scrape_University_Decision.ipynb)
+  * [Scraping Covid19 data](https://github.com/dmanvn/dmanvn.github.io/blob/master/Scrape_Covid19.ipynb)
 
  Data Cleaning: Link to data cleaning
  

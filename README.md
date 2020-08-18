@@ -22,8 +22,10 @@ Data Collection: The data was scraped from various reliable sources as listed be
 
  [Data Cleaning](https://github.com/dmanvn/dmanvn.github.io/blob/master/Data_Combine.ipynb)
  
- Exploratory Data Analysis: Link to eda
+[Geographical Mapping](https://github.com/dmanvn/dmanvn.github.io/blob/master/Mapping.ipynb)
+
+Exploratory Data Analysis: Link to eda
  
- Geographical Mapping: Link to mapping
+
  
  Machine Learning: Link to Machine learning

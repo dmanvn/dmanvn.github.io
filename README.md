@@ -1,5 +1,5 @@
-# dmanvn.github.io
-# Project Overview
+
+# Universities' Reopenning Plan Under Covid19 Pandemic - Project Overview
 
 Objective: This project was initiated by professor Noah Giansiracusa from Mathematical Sciences at Bentley University to study and uncover the decision making process to reopen in the Fall 2020 from universities in the Unitied States during the Covid19 pandemic. The objective of this study is to analyze and study relevant data to understand factors, such as Covid19 severity, financial health, economic and politic that drive university's deicsion to reopen "In-Person" as opposed to "Online".
 

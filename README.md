@@ -24,7 +24,7 @@ Data Collection: The data was scraped from various reliable sources as listed be
   * [Data Combining and Aggregation](https://github.com/dmanvn/dmanvn.github.io/blob/master/Data_Combine.ipynb)
   * [Data Cleaning](https://github.com/dmanvn/dmanvn.github.io/blob/master/Data%20Cleaning.ipynb)
  
-[Geographical Mapping](https://nbviewer.jupyter.org/github/dmanvn/dmanvn.github.io/blob/master/Mapping.ipynb)
+[Geographical Mapping](https://nbviewer.jupyter.org/github/dmanvn/dmanvn.github.io/blob/master/University%20Mapping.ipynb)
 
 Exploratory Data Analysis: Link to eda
  

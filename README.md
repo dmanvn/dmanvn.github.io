@@ -30,4 +30,4 @@ Data Collection: The data was scraped from various reliable sources as listed be
 
 [Machine Learning](https://github.com/dmanvn/dmanvn.github.io/blob/master/Machine%20Learning.ipynb)
 
-[Link to Dashboard] (https://university-reopenning.herokuapp.com/)
+[Link to Dashboard](https://university-reopenning.herokuapp.com/)

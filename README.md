@@ -25,6 +25,9 @@ Data Collection: The data was scraped from various reliable sources as listed be
   * [Data Cleaning](https://github.com/dmanvn/dmanvn.github.io/blob/master/Data%20Cleaning.ipynb)
  
 [Geographical Mapping](https://nbviewer.jupyter.org/github/dmanvn/dmanvn.github.io/blob/master/University%20Mapping.ipynb)
+
 [Exploratory Data Analysis](https://github.com/dmanvn/dmanvn.github.io/blob/master/EDA.ipynb)
+
 [Machine Learning](https://github.com/dmanvn/dmanvn.github.io/blob/master/Machine%20Learning.ipynb)
+
 [Link to Dashboard] (https://university-reopenning.herokuapp.com/)

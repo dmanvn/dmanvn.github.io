@@ -20,14 +20,16 @@ Data Collection: The data was scraped from various reliable sources as listed be
   * [Scraping university decision](https://github.com/dmanvn/dmanvn.github.io/blob/master/Scrape_University_Decision.ipynb)
   * [Scraping Covid19 data](https://github.com/dmanvn/dmanvn.github.io/blob/master/Scrape_Covid19.ipynb)
 
- Data Combining and Cleaning
+ Data Combining and Cleaning:
   * [Data Combining and Aggregation](https://github.com/dmanvn/dmanvn.github.io/blob/master/Data_Combine.ipynb)
   * [Data Cleaning](https://github.com/dmanvn/dmanvn.github.io/blob/master/Data%20Cleaning.ipynb)
+  
+Data Analysis:
  
-[Geographical Mapping](https://nbviewer.jupyter.org/github/dmanvn/dmanvn.github.io/blob/master/University%20Mapping.ipynb)
+  * [Geographical Mapping](https://nbviewer.jupyter.org/github/dmanvn/dmanvn.github.io/blob/master/University%20Mapping.ipynb)
 
-[Exploratory Data Analysis](https://github.com/dmanvn/dmanvn.github.io/blob/master/EDA.ipynb)
+  * [Exploratory Data Analysis](https://github.com/dmanvn/dmanvn.github.io/blob/master/EDA.ipynb)
 
-[Machine Learning](https://github.com/dmanvn/dmanvn.github.io/blob/master/Machine%20Learning.ipynb)
+  * [Machine Learning](https://github.com/dmanvn/dmanvn.github.io/blob/master/Machine%20Learning.ipynb)
 
 [Link to Dashboard](https://university-reopenning.herokuapp.com/)

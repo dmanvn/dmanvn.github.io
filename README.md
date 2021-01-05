@@ -26,7 +26,7 @@ Data Collection: The data was scraped from various reliable sources as listed be
  
 [Geographical Mapping](https://nbviewer.jupyter.org/github/dmanvn/dmanvn.github.io/blob/master/University%20Mapping.ipynb)
 
-Exploratory Data Analysis: Link to eda
+[Exploratory Data Analysis](https://github.com/dmanvn/dmanvn.github.io/blob/master/EDA.ipynb)
  
 
  
